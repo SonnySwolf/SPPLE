@@ -1,0 +1,9 @@
+.\debug\objects\stm32f4xx_rcc.o: ..\Platform\stm32f4xx\Driver\src\stm32f4xx_rcc.c
+.\debug\objects\stm32f4xx_rcc.o: ..\Platform\stm32f4xx\Driver\inc\stm32f4xx_rcc.h
+.\debug\objects\stm32f4xx_rcc.o: ..\Platform\stm32f4xx\CMSIS\stm32f4xx.h
+.\debug\objects\stm32f4xx_rcc.o: ..\Platform\stm32f4xx\CMSIS\core_cm4.h
+.\debug\objects\stm32f4xx_rcc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\debug\objects\stm32f4xx_rcc.o: ..\Platform\stm32f4xx\CMSIS\core_cmInstr.h
+.\debug\objects\stm32f4xx_rcc.o: ..\Platform\stm32f4xx\CMSIS\core_cmFunc.h
+.\debug\objects\stm32f4xx_rcc.o: ..\Platform\stm32f4xx\CMSIS\core_cm4_simd.h
+.\debug\objects\stm32f4xx_rcc.o: ..\Platform\stm32f4xx\CMSIS\system_stm32f4xx.h

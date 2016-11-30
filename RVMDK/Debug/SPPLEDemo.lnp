@@ -1,0 +1,22 @@
+--cpu Cortex-M4.fp
+".\debug\objects\sppledemo.o"
+".\debug\objects\hal.o"
+".\debug\objects\main.o"
+".\debug\objects\btvs.o"
+".\debug\objects\btpskrnl.o"
+".\debug\objects\btpsvend.o"
+".\debug\objects\hcitrans.o"
+".\debug\objects\stm32f4xx_gpio.o"
+".\debug\objects\stm32f4xx_rcc.o"
+".\debug\objects\stm32f4xx_exti.o"
+".\debug\objects\stm32f4xx_usart.o"
+".\debug\objects\system_stm32f4xx.o"
+".\debug\objects\stm32f4xx_syscfg.o"
+".\debug\objects\startup_stm32f40_41xxx.o"
+"..\Bluetopia\lib\Bluetopia.lib"
+"..\Bluetopia\profiles\GAPS\lib\rvmdk\SS1BTGAP.lib"
+"..\Bluetopia\profiles\GATT\lib\rvmdk\SS1BTGAT.lib"
+--library_type=microlib --strict --scatter "..\Platform\rvmdk\STM32F407xG.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Debug\Listing\..\SPPLEDemo.map" -o .\Debug\Objects\..\SPPLEDemo.axf

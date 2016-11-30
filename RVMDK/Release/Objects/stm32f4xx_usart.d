@@ -1,0 +1,10 @@
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\Driver\src\stm32f4xx_usart.c
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\Driver\inc\stm32f4xx_usart.h
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\CMSIS\stm32f4xx.h
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\CMSIS\core_cm4.h
+.\release\objects\stm32f4xx_usart.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\CMSIS\core_cmInstr.h
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\CMSIS\core_cmFunc.h
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\CMSIS\core_cm4_simd.h
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\CMSIS\system_stm32f4xx.h
+.\release\objects\stm32f4xx_usart.o: ..\..\..\..\Platform\stm32f4xx\Driver\inc\stm32f4xx_rcc.h
